@@ -3,7 +3,8 @@
 ### 📍 Tel Aviv | 🎓 Expected Graduation: 2026
 
 I’m a third-year undergraduate, passionate about tackling complex problems that connect computer science theory with practical implementation, aiming to build efficient and reliable software.
-Programming Languages: Python, Java, C
+
+**Programming Languages:** Python, Java, C
 
 
 **Relevant Courses:** Data Structures, Algorithms, Computer Architecture, Game Theory, Computational Models
