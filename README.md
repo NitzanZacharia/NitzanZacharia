@@ -11,6 +11,7 @@ Programming Languages: Python, Java, C
 
 ### Featured Projects
 (Key projects so far are from my degree studies — more to come! 🚀)
+
 [**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree with insertion, deletion, and rebalancing.
 
 
