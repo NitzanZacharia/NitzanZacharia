@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitzan Zacharia
+### **Computer Science & Economics Student** | **Tel Aviv University**
+### 📍 Tel Aviv | 🎓 Expected Graduation: 2026
 
-<!--
-**NitzanZacharia/NitzanZacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year undergraduate, passionate about tackling complex problems that connect computer science theory with practical implementation, aiming to build efficient and reliable software.
+Programming Languages: Python, Java, C
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Relevant Courses:** Data Structures, Algorithms, Computer Architecture, Game Theory, Computational Models
+
+
+### Featured Projects
+(Key projects so far are from my degree studies — more to come! 🚀)
+[**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree with insertion, deletion, and rebalancing.
+
+
+[**Fibonacci Heap** (Java):](https://gitfront.io/r/Nitzan-Zacharia/BAtPRezV3njX/Fibonacci-Heap-Implementation/) Implemented a priority queue with efficient amortized operations.
+
+
+[**SymNMF Clustering** (C & Python):](https://gitfront.io/r/Nitzan-Zacharia/oGkYWPTkxtdV/SymNMF-Clustering/) Implemented Symmetric Non-negative Matrix Factorization for clustering, combining low-level memory management with high-level analysis.
