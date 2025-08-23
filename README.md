@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nitzan Zacharia
-### **Computer Science & Economics Student** | **Tel Aviv University**
+## **Computer Science & Economics Student** | **Tel Aviv University**
 ### 📍 Tel Aviv | 🎓 Expected Graduation: 2026
 
 I’m a third-year undergraduate, passionate about tackling complex problems that connect computer science theory with practical implementation, aiming to build efficient and reliable software.
