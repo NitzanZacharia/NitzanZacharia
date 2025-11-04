@@ -11,8 +11,8 @@ I’m a third-year undergraduate, passionate about tackling complex problems tha
 
 ### Featured Projects
 
-**Academic Projects** <u>underlined</u>
-<ins>text</ins> 
+**Academic Projects** 
+
 [**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree supporting insertion, deletion, and rebalancing operations.
 
 [**k-means++ Clustering** (C with Python Interface):](https://gitfront.io/r/Nitzan-Zacharia/BGSRffjuc4Em/k-means-Clustering/) Implemented the k-means++ algorithm in C with a Python interface, emphasizing
