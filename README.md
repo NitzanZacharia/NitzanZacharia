@@ -21,6 +21,6 @@ I’m a third-year undergraduate, passionate about tackling complex problems tha
 
 [**SymNMF Clustering** (C & Python):](https://gitfront.io/r/Nitzan-Zacharia/oGkYWPTkxtdV/SymNMF-Clustering/) Implemented Symmetric Non-negative Matrix Factorization for clustering, combining low-level memory management in C with higher-level analysis in Python.
 
-<ins>**Personal Projects** (more to come!)</ins>
+<ins>**Personal Projects**</ins> (more to come!)
 
-[**Probabilistic Roadmap Path Planning** (Python):](https://github.com/NitzanZacharia/2D-motion-planning.git) Personal project implementing a 2D motion planner for a square robot using the Minkowski Difference, random sampling, and A* search on a KNN graph. Includes visualization of the configuration space, samples, and resulting path.
+[**Probabilistic Roadmap Path Planning** (Python):](https://github.com/NitzanZacharia/2D-motion-planning.git) Implemented a 2D motion planner for a square robot using the Minkowski Difference, random sampling, and A* search on a KNN graph. Includes visualization of the configuration space, samples, and resulting path.
