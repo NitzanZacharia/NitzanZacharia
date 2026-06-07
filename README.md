@@ -16,14 +16,9 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 
 [**Mechanistic Interpretability Research (NLP Seminar)** (Python):](https://github.com/NitzanZacharia/mixing-mechs-nlp.git) 
 
-**Entity Binding Mechanisms Across Positional Embedding & Hybrid Architectures**
-
-This project investigates how alternative embedding methods and architectures affect in-context entity binding. By applying causal abstraction, interchange interventions, and layer-wise activation patching, it analyzes how LLMs encode and retrieve bound entities from their context.
-
-**Key Highlights:**
-* **Expanded Architecture Scope:** Applied interchange interventions (activation patching) to ALiBi models (MPT, Bloomz), pure Mamba SSMs, and Hybrid models (Falcon-H1, Zamba2).
-* **Novel Methodology:** Developed multi-layer component patching to isolate and evaluate the distinct contributions of Attention vs. Mamba components within hybrid models.
-* **Core Findings:** Proved that Attention is the fundamental driver of entity binding across all tested architectures. Additionally, demonstrated that while ALiBi models successfully adapt their routing computations under 100-entity context loads, pure Mamba and hybrid models experience catastrophic state saturation.
+* Investigated how alternative embedding methods and architectures affect in-context entity binding. 
+* **Methodology:** Applied causal abstraction, interchange interventions, and layer-wise activation patching to isolate Attention vs. Mamba components within hybrid models.
+* **Findings:** Demonstrated that Attention fundamentally drives entity binding across architectures, and highlighted state saturation vulnerabilities in pure Mamba and hybrid models under heavy context loads.
 
 [**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree supporting insertion, deletion, and rebalancing operations.
 
