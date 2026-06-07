@@ -22,7 +22,7 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 * **Methodology:** Applied causal abstraction, interchange interventions, and layer-wise activation patching to ALiBi models (MPT, Bloomz), pure Mamba SSMs, and Hybrid models (Falcon-H1, Zamba2).
 * **Findings:** Demonstrated that Attention fundamentally drives entity binding across architectures, and highlighted state saturation vulnerabilities in pure Mamba and hybrid models under heavy context loads.
 
-[**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree supporting insertion, deletion, and rebalancing operations.
+[**AVL Tree** (Python):](https://github.com/NitzanZacharia/AVL-Tree.git) Implemented a self-balancing binary search tree supporting insertion, deletion, and rebalancing operations.
 
 [**k-means++ Clustering** (C with Python Interface):](https://gitfront.io/r/Nitzan-Zacharia/BGSRffjuc4Em/k-means-Clustering/) Implemented the k-means++ algorithm in C with a Python interface, emphasizing
  modular design and computational efficiency; validated results using scikit-learn.
