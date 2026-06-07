@@ -13,6 +13,7 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 ### Featured Projects
 
 <ins>**Academic Projects**</ins> 
+
 [**Entity Binding Mechanisms Across Positional Embedding & Hybrid Architectures** (Python):](https://github.com/NitzanZacharia/mixing-mechs-nlp.git) 
 *Mechanistic Interpretability Research (NLP Seminar)*
 
