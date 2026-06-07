@@ -21,6 +21,7 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 * **Project Scope:** Investigated how alternative embedding methods and architectures affect in-context entity binding. 
 * **Methodology:** Applied causal abstraction, interchange interventions, and layer-wise activation patching to ALiBi models (MPT, Bloomz), pure Mamba SSMs, and Hybrid models (Falcon-H1, Zamba2).
 * **Findings:** Demonstrated that Attention fundamentally drives entity binding across architectures, and highlighted state saturation vulnerabilities in pure Mamba and hybrid models under heavy context loads.
+  
 [**SymNMF Clustering** (C & Python):](https://github.com/NitzanZacharia/SymNMF_Clustering.git) Implemented Symmetric Non-negative Matrix Factorization for clustering, combining low-level memory management in C with higher-level analysis in Python.
 
 [**k-means++ Clustering** (C with Python Interface):](https://github.com/NitzanZacharia/k-means-pp-Clustering.git) Implemented the k-means++ algorithm in C with a Python interface, emphasizing
