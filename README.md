@@ -13,7 +13,7 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 ### Featured Projects
 
 <ins>**Academic Projects**</ins> 
-[**Entity Binding Mechanisms Across Positional Embedding & Hybrid Architectures** (Python):]([https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/](https://github.com/NitzanZacharia/mixing-mechs-nlp.git)) 
+[**Entity Binding Mechanisms Across Positional Embedding & Hybrid Architectures** (Python):](https://github.com/NitzanZacharia/mixing-mechs-nlp.git) 
 *Mechanistic Interpretability Research (NLP Seminar)*
 
 This project investigates how alternative embedding methods and architectures affect in-context entity binding. By applying causal abstraction, interchange interventions, and layer-wise activation patching, it analyzes how LLMs encode and retrieve bound entities from their context.
