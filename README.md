@@ -17,7 +17,7 @@ Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Se
 [**Mechanistic Interpretability Research (NLP Seminar)** (Python):](https://github.com/NitzanZacharia/mixing-mechs-nlp.git) 
 
 * **Project Scope:** Investigated how alternative embedding methods and architectures affect in-context entity binding. 
-* **Methodology:** Applied causal abstraction, interchange interventions, and layer-wise activation patching to LiBi models (MPT, Bloomz), pure Mamba SSMs, and Hybrid models (Falcon-H1, Zamba2).
+* **Methodology:** Applied causal abstraction, interchange interventions, and layer-wise activation patching to ALiBi models (MPT, Bloomz), pure Mamba SSMs, and Hybrid models (Falcon-H1, Zamba2).
 * **Findings:** Demonstrated that Attention fundamentally drives entity binding across architectures, and highlighted state saturation vulnerabilities in pure Mamba and hybrid models under heavy context loads.
 
 [**AVL Tree** (Python):](https://gitfront.io/r/Nitzan-Zacharia/Q9D8zQhkU6fM/AVL-Tree-Implementation/) Implemented a self-balancing binary search tree supporting insertion, deletion, and rebalancing operations.
