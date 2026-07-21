@@ -7,7 +7,7 @@ I’m a third-year undergraduate, passionate about tackling complex problems tha
 
 
 **Relevant Courses:**  Data Structures, Software Development (Java), Algorithms, Software Project (C, Python), Computer
-Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Security, Computational Models, Graph ML (in progress).
+Architecture, Operating Systems, Natural Language Processing, Big Data, Cyber Security, Computational Models, Graph ML, Recommender Systems.
 
 
 ### Featured Projects
